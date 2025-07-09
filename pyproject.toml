@@ -1,0 +1,21 @@
+[project]
+name = "personalized-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "shahzu9", email = "malik.in894@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "nest-asyncio>=1.6.0",
+    "openai-agents>=0.0.19",
+    "pillow>=11.3.0",
+]
+
+[project.scripts]
+personalized-agent = "personalized_agent:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
