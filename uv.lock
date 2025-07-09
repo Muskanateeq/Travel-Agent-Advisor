@@ -7,6 +7,7 @@ resolution-markers = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "aiofiles"
 version = "24.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -106,6 +107,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "annotated-types"
 version = "0.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -115,6 +118,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "anthropic"
 version = "0.57.1"
 source = { registry = "https://pypi.org/simple" }
@@ -133,6 +137,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "anyio"
 version = "4.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -147,6 +153,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "asyncer"
 version = "0.0.8"
 source = { registry = "https://pypi.org/simple" }
@@ -186,6 +193,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "certifi"
 version = "2025.6.15"
 source = { registry = "https://pypi.org/simple" }
@@ -195,6 +204,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "chainlit"
 version = "2.6.0"
 source = { registry = "https://pypi.org/simple" }
@@ -229,6 +239,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "charset-normalizer"
 version = "3.4.2"
 source = { registry = "https://pypi.org/simple" }
@@ -277,6 +289,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "chevron"
 version = "0.14.0"
 source = { registry = "https://pypi.org/simple" }
@@ -286,6 +299,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "click"
 version = "8.2.1"
 source = { registry = "https://pypi.org/simple" }
@@ -307,6 +322,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "dataclasses-json"
 version = "0.6.7"
 source = { registry = "https://pypi.org/simple" }
@@ -332,6 +348,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "distro"
 version = "1.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -341,6 +359,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "fastapi"
 version = "0.115.14"
 source = { registry = "https://pypi.org/simple" }
@@ -477,6 +496,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "griffe"
 version = "1.7.3"
 source = { registry = "https://pypi.org/simple" }
@@ -489,6 +510,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "grpcio"
 version = "1.73.1"
 source = { registry = "https://pypi.org/simple" }
@@ -527,6 +549,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "h11"
 version = "0.16.0"
 source = { registry = "https://pypi.org/simple" }
@@ -536,6 +560,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "hf-xet"
 version = "1.1.5"
 source = { registry = "https://pypi.org/simple" }
@@ -551,6 +576,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "httpcore"
 version = "1.0.9"
 source = { registry = "https://pypi.org/simple" }
@@ -588,6 +615,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "huggingface-hub"
 version = "0.33.2"
 source = { registry = "https://pypi.org/simple" }
@@ -607,6 +635,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "idna"
 version = "3.10"
 source = { registry = "https://pypi.org/simple" }
@@ -616,6 +646,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "importlib-metadata"
 version = "8.7.0"
 source = { registry = "https://pypi.org/simple" }
@@ -649,6 +680,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "jiter"
 version = "0.10.0"
 source = { registry = "https://pypi.org/simple" }
@@ -709,6 +742,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "lazify"
 version = "0.4.0"
 source = { registry = "https://pypi.org/simple" }
@@ -791,6 +825,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "mcp"
 version = "1.9.4"
 source = { registry = "https://pypi.org/simple" }
@@ -811,6 +847,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "monotonic"
 version = "1.6"
 source = { registry = "https://pypi.org/simple" }
@@ -910,6 +947,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "nest-asyncio"
 version = "1.6.0"
 source = { registry = "https://pypi.org/simple" }
@@ -956,6 +995,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "opentelemetry-api"
 version = "1.34.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1609,10 +1649,13 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "personalized-agent"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+<<<<<<< HEAD
     { name = "aiohttp" },
     { name = "chainlit" },
     { name = "fpdf" },
@@ -1620,10 +1663,16 @@ dependencies = [
     { name = "openai-agents" },
     { name = "pillow" },
     { name = "python-dotenv" },
+=======
+    { name = "nest-asyncio" },
+    { name = "openai-agents" },
+    { name = "pillow" },
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 ]
 
 [package.metadata]
 requires-dist = [
+<<<<<<< HEAD
     { name = "aiohttp", specifier = ">=3.12.13" },
     { name = "chainlit", specifier = ">=2.6.0" },
     { name = "fpdf", specifier = ">=1.7.2" },
@@ -1631,6 +1680,11 @@ requires-dist = [
     { name = "openai-agents", specifier = ">=0.0.19" },
     { name = "pillow", specifier = ">=11.3.0" },
     { name = "python-dotenv", specifier = ">=1.1.1" },
+=======
+    { name = "nest-asyncio", specifier = ">=1.6.0" },
+    { name = "openai-agents", specifier = ">=0.0.19" },
+    { name = "pillow", specifier = ">=11.3.0" },
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 ]
 
 [[package]]
@@ -1718,6 +1772,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "posthog"
 version = "3.25.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1822,6 +1877,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "pydantic"
 version = "2.11.7"
 source = { registry = "https://pypi.org/simple" }
@@ -1916,6 +1973,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "pyjwt"
 version = "2.10.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1937,6 +1995,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "python-dotenv"
 version = "1.1.1"
 source = { registry = "https://pypi.org/simple" }
@@ -1946,6 +2006,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "python-engineio"
 version = "4.12.2"
 source = { registry = "https://pypi.org/simple" }
@@ -1958,6 +2019,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "python-multipart"
 version = "0.0.18"
 source = { registry = "https://pypi.org/simple" }
@@ -1967,6 +2030,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "python-socketio"
 version = "5.13.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2068,6 +2132,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "requests"
 version = "2.32.4"
 source = { registry = "https://pypi.org/simple" }
@@ -2083,6 +2149,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "simple-websocket"
 version = "1.1.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2104,6 +2171,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "sniffio"
 version = "1.3.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2137,6 +2206,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "syncer"
 version = "2.0.3"
 source = { registry = "https://pypi.org/simple" }
@@ -2246,6 +2316,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "tqdm"
 version = "4.67.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2258,6 +2330,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "traceloop-sdk"
 version = "0.40.14"
 source = { registry = "https://pypi.org/simple" }
@@ -2314,6 +2387,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "types-requests"
 version = "2.32.4.20250611"
 source = { registry = "https://pypi.org/simple" }
@@ -2335,6 +2410,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "typing-inspect"
 version = "0.9.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2348,6 +2424,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "typing-inspection"
 version = "0.4.1"
 source = { registry = "https://pypi.org/simple" }
@@ -2360,6 +2438,7 @@ wheels = [
 ]
 
 [[package]]
+<<<<<<< HEAD
 name = "uptrace"
 version = "1.34.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2375,6 +2454,8 @@ wheels = [
 ]
 
 [[package]]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
 name = "urllib3"
 version = "2.5.0"
 source = { registry = "https://pypi.org/simple" }
@@ -2395,6 +2476,7 @@ sdist = { url = "https://files.pythonhosted.org/packages/de/ad/713be230bcda622ea
 wheels = [
     { url = "https://files.pythonhosted.org/packages/6d/0d/8adfeaa62945f90d19ddc461c55f4a50c258af7662d34b6a3d5d1f8646f6/uvicorn-0.34.3-py3-none-any.whl", hash = "sha256:16246631db62bdfbf069b0645177d6e8a77ba950cfedbfd093acef9444e4d885", size = 62431, upload-time = "2025-06-01T07:48:15.664Z" },
 ]
+<<<<<<< HEAD
 
 [[package]]
 name = "watchfiles"
@@ -2575,3 +2657,5 @@ sdist = { url = "https://files.pythonhosted.org/packages/e3/02/0f2892c661036d50e
 wheels = [
     { url = "https://files.pythonhosted.org/packages/2e/54/647ade08bf0db230bfea292f893923872fd20be6ac6f53b2b936ba839d75/zipp-3.23.0-py3-none-any.whl", hash = "sha256:071652d6115ed432f5ce1d34c336c0adfd6a884660d1e9712a256d3d3bd4b14e", size = 10276, upload-time = "2025-06-08T17:06:38.034Z" },
 ]
+=======
+>>>>>>> ce9710c48841ba4aa89c94db4b1c77759729cb73
